@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d22a1a8-1d68-4b09-a6c5-4f5c452f54c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d22a1a8-1d68-4b09-a6c5-4f5c452f54c0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -243,7 +241,7 @@
       <workItem from="1643698989150" duration="5008000" />
       <workItem from="1643710990968" duration="5644000" />
       <workItem from="1643729333912" duration="27000" />
-      <workItem from="1643729421657" duration="460000" />
+      <workItem from="1643729421657" duration="5181000" />
     </task>
     <task id="LOCAL-00001" summary="creation de la methode ToString">
       <created>1643729612743</created>
@@ -288,7 +286,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11139000" />
+    <option name="totallyTimeSpent" value="15860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
