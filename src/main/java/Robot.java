@@ -16,31 +16,6 @@ public class Robot {
     }
 
 
-    public String getNom() {
-        return nom;
-    }
-
-    public int getVie() {
-        return vie;
-    }
-
-    public void setVie(int vie) {
-        this.vie = vie;
-    }
-
-    public void setNom(String nom) {
-        this.nom = nom;
-    }
-
-    public  boolean fire(Robot r){
-        if(!r.isDead() && r.getVie() >=2){
-            r.setVie(r.getVie() - 2);
-            return true;
-        } else
-            r.setVie(0);
-
-        return  false;
-    }
     public boolean isDead(){
         return this.getVie() == 0;
     }
