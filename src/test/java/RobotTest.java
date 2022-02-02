@@ -35,7 +35,7 @@ class RobotTest {
             D2R2.fire(Data);
             assertNotEquals(Data.getVie(),D2R2.getVie());
         }
-
+        
 
 
 }
