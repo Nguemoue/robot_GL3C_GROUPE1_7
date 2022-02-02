@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d22a1a8-1d68-4b09-a6c5-4f5c452f54c0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/robot-GL3C.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Robot.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/src/main/java/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Robot.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,8 +33,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="323">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="255">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="187">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
             </state>
           </provider>
         </entry>
@@ -53,12 +80,35 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Robot.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+<<<<<<< HEAD
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="699" />
+    <option name="height" value="777" />
+=======
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
       </list>
     </option>
   </component>
@@ -67,6 +117,7 @@
     <option name="y" value="-8" />
     <option name="width" value="697" />
     <option name="height" value="775" />
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -74,13 +125,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
       <pane id="Scope" />
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="robot-GL3C" type="b2602c69:ProjectViewProjectNode" />
               <item name="robot-GL3C" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
             </path>
             <path>
               <item name="robot-GL3C" type="b2602c69:ProjectViewProjectNode" />
@@ -117,12 +181,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,19 +227,64 @@
       <created>1643804372323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1643804372323</updated>
       <workItem from="1643804455709" duration="1273000" />
+=======
+      <updated>1643698972578</updated>
+      <workItem from="1643698989150" duration="5008000" />
+      <workItem from="1643710990968" duration="5644000" />
+<<<<<<< HEAD
+      <workItem from="1643728920104" duration="269000" />
+      <workItem from="1643729254636" duration="2584000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1643735664551" duration="113000" />
+=======
+      <workItem from="1643729333912" duration="27000" />
+      <workItem from="1643729421657" duration="460000" />
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1514000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="13505000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08906882" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="10765000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="736" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+=======
+    <option name="totallyTimeSpent" value="11139000" />
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -202,13 +323,39 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/Robot.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+    <entry file="file://$PROJECT_DIR$/src/test/java/RobotTest.java">
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
     <entry file="file://$PROJECT_DIR$/src/main/java/Arena.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -224,8 +371,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RobotTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="51">
           <caret line="3" column="62" lean-forward="true" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+=======
+        <state relative-caret-position="153">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+>>>>>>> e5ce7db86144bac841e18667534799101926e2ed
+>>>>>>> 2c02aca895390b7511cb01ba1ca64cc2e81b7d08
+>>>>>>> 1dcdd2fda33ccf9d23c5677a1efda38513842d18
         </state>
       </provider>
     </entry>
